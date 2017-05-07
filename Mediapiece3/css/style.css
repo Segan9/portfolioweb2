@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: linear-gradient(-120deg,#a31c18,#f24161,#a31c18);
+}
+
+/*Navbar*/
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+	
+	
+	
+	
+	
+	
+}
+
+.navbar .navbar-nav > li > a{
+	color: red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 160%;
+}
+
+
+
+
+.navbar .navbar-brand{
+	
+		color: red;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 160%;
+	
+}
+
+.navbar .active{
+	color: red;
+}
+
+
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+.navbar-wrapper{
+	color: red;
+	
+}
+
+
+.page-header{
+	color: white;
+	text-shadow: 3px 3px black;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-top: 2%;
+}
+
+.row small{
+	color: limegreen;
+	text-shadow: 2px 2px black;
+}
+
+.row img{
+	width: 100%;
+	height: 50%;
+}
+	
+
+
+.page-header{
+	color: white;
+	text-shadow: 3px 3px black;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.row small{
+	color: limegreen;
+	text-shadow: 2px 2px black;
+}
+
+.row img{
+	width: 100%;
+	height: 50%;
+}
+	
+		
+
+
+
+
+.textbox{
+	background-color: white;
+	display: block;
+	font-size: 120%;
+	border: solid medium #000000;
+	padding: 5px;
+	border-radius: 10%;
+	margin-right: 5%;
+}
+
+.textbox h3{
+	color: red;
+	text-shadow: 1px 1px black;
+}
+
+footer{
+	color: white;
+}
